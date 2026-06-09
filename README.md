@@ -1,8 +1,7 @@
 <div align="center">
 
 # 👋 Hola, soy Mateo García
-
-### Desarrollador en formación | Ecuador 🇪🇨
+### Economista & Desarrollador en formación | Ecuador 🇪🇨
 
 </div>
 
@@ -11,13 +10,14 @@
 ## 🚀 Sobre mí
 
 - 🎓 Economista y aprendiendo programación como hobbie
-- 🌱 Actualmente aprendiendo **GDscript y WebDevelopmente**
+- 🌱 Actualmente aprendiendo **GDscript y WebDevelopment**
 - 💡 Apasionado por **Estadística y Videojuegos**
 - 📍 Quito, Ecuador
 
 ---
 
 ## 🛠️ Tecnologías & Herramientas
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -28,6 +28,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 ---
 
